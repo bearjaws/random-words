@@ -1,0 +1,29 @@
+{
+  "name": "random-words",
+  "version": "1.0.0",
+  "description": "Returns a delimited string of random english words from a dictionary of over 150,000",
+  "main": "index.js",
+  "dependencies": {
+    "an-array-of-english-words": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bearjaws/random-words.git"
+  },
+  "keywords": [
+    "random",
+    "words",
+    "english",
+    "words"
+  ],
+  "author": "bearjaws",
+  "license": "APL",
+  "bugs": {
+    "url": "https://github.com/bearjaws/random-words/issues"
+  },
+  "homepage": "https://github.com/bearjaws/random-words"
+}
