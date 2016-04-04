@@ -4,7 +4,7 @@
   "description": "Returns a delimited string of random english words from a dictionary of over 150,000",
   "main": "index.js",
   "dependencies": {
-    "an-array-of-english-words": "^1.0.1"
+    "bluebird": "3.3.4"
   },
   "devDependencies": {},
   "scripts": {
